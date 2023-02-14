@@ -1,0 +1,6 @@
+nav {
+  background-color: darkgray;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-around;
+}
